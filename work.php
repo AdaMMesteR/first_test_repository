@@ -20,5 +20,21 @@ $y = 20;
 print "<br /><br />" .$x -$y;
 print "There will be conflict!"
 
+
+
+
+
+
+
+
+
+
+
+//Multiplication
+//====================================
+$lil = 3;
+$big  = 23;
+print ($lil * $big) . "<br /><br />";
+
 //This is the end
 ?>
