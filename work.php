@@ -1,7 +1,7 @@
 <?php
 
 //Mathematical operations
-//=======================================
+//======================================
 
 //Addition
 //======================================
@@ -22,19 +22,19 @@ print "There will be conflict!"
 
 
 
-
-
-
-
-
-
-
-
 //Multiplication
 //====================================
 $lil = 3;
 $big  = 23;
 print ($lil * $big) . "<br /><br />";
+
+
+
+//Division
+//======================================
+$var = 25;
+$div = 5;
+print ($var / $div) . "<br /><br />"
 
 //This is the end
 ?>
