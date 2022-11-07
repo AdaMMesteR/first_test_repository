@@ -21,9 +21,19 @@ Second method:
 
 ### Code
 
+#### Inserted into line
 In this line there is inserted `<b>code</b>` section.
 
+#### Python
 ```python
-s = "Python syntax highlighting"
-comp = 1+1j
+if (is_okay)
+print("Python syntax highlighting")
+else
+print("I'm sad)
+```
+
+#### Java Script
+```javascript
+var p = 23;
+alert("hahaha");
 ```
