@@ -18,3 +18,12 @@ WebUni: https://webuni.hu/kepzes/git-es-github
 
 Second method:
 [Git course WebUni](https://webuni.hu/kepzes/git-es-github)
+
+### Code
+
+In this line there is inserted `<b>code`</b>` section.
+
+```
+s = "Python syntax highlighting"
+comp = 1+1j
+```
