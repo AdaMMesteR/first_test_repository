@@ -10,3 +10,11 @@ This is my first *GitHub repository* based on the Git course in **WebUni**.
 1. Numbered elem1
 2. Numbered elem2
 3. Numbered elem3
+
+### Links
+
+First method:
+WebUni: https://webuni.hu/kepzes/git-es-github
+
+Second method:
+[Git course WebUni(https://webuni.hu/kepzes/git-es-github)]
