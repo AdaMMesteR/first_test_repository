@@ -21,9 +21,9 @@ Second method:
 
 ### Code
 
-In this line there is inserted `<b>code`</b>` section.
+In this line there is inserted `<b>code</b>` section.
 
-```
+```python
 s = "Python syntax highlighting"
 comp = 1+1j
 ```
