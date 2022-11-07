@@ -1,7 +1,7 @@
 <?php
 
 //Mathematical operations
-//=======================================
+//======================================
 
 //Addition
 //======================================
@@ -17,10 +17,26 @@ print $a + $b + $c + $d;
 
 //Subtraction
 //======================================
-$x = 30;
-$y = 20;
-print "<br /><br />" .$x -$y;
-print "There will be conflict!"
+$x = 15;
+$y = 59;
+$z = 370;
+print "<br /><br />" . $z - $y -$x . "<br /><br />";
+
+
+
+//Multiplication
+//====================================
+$lil = 3;
+$big  = 23;
+print ($lil * $big) . "<br /><br />";
+
+
+
+//Division
+//======================================
+$var = 25;
+$div = 5;
+print ($var / $div) . "<br /><br />"
 
 //This is the end
 ?>
