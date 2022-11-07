@@ -15,11 +15,10 @@ print $a + $b + $c;
 
 //Subtraction
 //======================================
-$x = 30;
-$y = 20;
-$z = 37;
-print "<br /><br />" .$x -$y;
-print "There will be conflict!"
+$x = 15;
+$y = 59;
+$z = 370;
+print "<br /><br />" .$z - $y -$x;
 
 //This is the end
 ?>
