@@ -17,4 +17,4 @@ First method:
 WebUni: https://webuni.hu/kepzes/git-es-github
 
 Second method:
-[Git course WebUni(https://webuni.hu/kepzes/git-es-github)]
+[Git course WebUni](https://webuni.hu/kepzes/git-es-github)
