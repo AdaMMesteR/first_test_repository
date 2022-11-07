@@ -6,8 +6,8 @@
 //Addition
 //======================================
 
-$a = 10;
-$b = 15;
+$a = 150;
+$b = 105;
 print $a + $b;
 
 
@@ -17,5 +17,6 @@ print $a + $b;
 $x = 30;
 $y = 20;
 print "<br /><br />" .$x -$y;
+print "There will be conflict!"
 
 ?>
